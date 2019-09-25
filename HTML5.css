@@ -1,0 +1,45 @@
+
+
+.fuente {
+    font-family: 'Quicksand', sans-serif; 
+}
+
+.fondo{
+    background       : url(img/reinapepiada.jpg);
+    background-repeat: no-repeat;
+    background-size  : 100%;
+}
+
+.header {
+    text-align : center;
+    font-family: 'Mansalva', cursive;
+}
+
+
+.article {
+    display   : inline-block;
+    text-align: justify;
+    width     : 70%;
+    float     : left;
+    padding-left: 24px;
+
+
+}
+
+.aside {
+    display      : inline-block;
+    width        : 20%;
+    float        : right;
+    text-align   : justify;
+    padding-right: 10px;
+}
+
+.clearfix {
+    clear: both;
+
+}
+
+.footer {
+    display: block; font-family: 'Mansalva', cursive;
+
+}
